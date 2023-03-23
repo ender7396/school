@@ -15,5 +15,5 @@
 
 <img src="https://img.shields.io/badge/Adobe Illustrator-ff9a00?style=flat-square&logo=Adobe Illustrator&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31a8ff?style=flat-square&logo=Adobe Photoshop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Unity-ffffff?style=flat-square&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=White"/>
 <img src="https://img.shields.io/badge/C sharp-ff9a00?style=flat-square&logo=C sharp&logoColor=black"/>
